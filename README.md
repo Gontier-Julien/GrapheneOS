@@ -26,4 +26,22 @@ It also the image that my phone use, and that why (for now) only the Pixel 9 ima
 
 ## More info
 
-[Here](https://github.com/Gontier-Julien/gontier-julien.github.io) you can find the url where [Custota](https://github.com/chenxiaolong/Custota) go to check for OTA update.
+[Here](https://codeberg.org/Snowy/GrapheneOS-Custota) you can find the url where [Custota](https://github.com/chenxiaolong/Custota) go to check for OTA update.
+
+## Changed to Codeberg [26/04/2026]
+
+With my ongoing transition to move my repos away from GitHub, i've decided to host the repo page to Codeberg instead.
+
+The OTA files will remain on GitHub, both to respect Codeberg's storage limits and to avoid overusing their resources, and because GitHub can better handle the bandwidth and storage costs.
+
+The repo now live [here at Codeberg](https://codeberg.org/Snowy/GrapheneOS-Custota)
+
+# Custota
+
+In Custota just change the url from
+
+`https://gontier-julien.github.io/tokay.json`
+
+to
+
+`https://snowy.codeberg.page/GrapheneOS-Custota/tokay.json`
